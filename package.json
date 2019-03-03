@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "dotenv": "^5.0.1",
-    "expo-server-sdk": "^2.3.3",
+    "expo-server-sdk": "^3.1.0",
     "knex": "^0.14.6",
     "koa": "^2.5.1",
     "koa-bodyparser": "^4.2.1",
