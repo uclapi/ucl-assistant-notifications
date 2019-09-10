@@ -18,7 +18,7 @@ details for which are provided by environment variables.
 
 * `POST /upi/xxx/` - send a push notification to the specified UPI. Requires a
   JSON object as body, with `title`, `content`, and `type` parameters. Returns
-  200 if notifcation sent, returns 404 if that user is not registered for
+  200 if notifcation sent, returns a 404 error if that user is not registered for
   notifications.
 
 * `DELETE /upi/xxx/` - removes a user from the notifications system. Deletes the
