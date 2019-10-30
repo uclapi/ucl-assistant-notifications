@@ -20,7 +20,7 @@
       "yarn jest --ci && yarn run lint:force"
   },
   "dependencies": {
-    "dotenv": "^5.0.1",
+    "dotenv": "^8.2.0",
     "expo-server-sdk": "^2.3.3",
     "knex": "^0.19.5",
     "koa": "^2.5.1",
