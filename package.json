@@ -29,7 +29,7 @@
     "koa-router": "^7.4.0",
     "node-fetch": "^2.1.2",
     "objection": "^1.1.10",
-    "pg": "^7.4.3",
+    "pg": "^7.12.1",
     "raven": "^2.6.4"
   },
   "devDependencies": {
